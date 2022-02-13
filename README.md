@@ -27,9 +27,6 @@ Memo-recorder is an app built with express.js used to write and save notes
 ## Usage
 Document and save notes as quick reminders
 
-## License
-(https://opensource.org/licenses/MIT) This project is covered by the MIT license.
-
 ## Contributions
 Sam Ismail
 
