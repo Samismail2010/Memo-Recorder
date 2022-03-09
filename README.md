@@ -37,8 +37,5 @@ npm start
 * find me on Github: [samismail2010](https://github.com/samismail2010)
 * Email me with any questions: [samismail2010@gmail.com](mailto:samismail2010@gmail.com)
 
-## Deployed URL
-* https://samismail2010.github.io/Memo-Recorder/
-
 ## Heroku URL
 * https://memo-recorder.herokuapp.com
