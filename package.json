@@ -2,5 +2,23 @@
   "dependencies": {
     "express": "^4.17.2",
     "node": "^17.4.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "memo-recorder",
+  "description": "Memo-recorder is an app built with express.js used to write and save notes",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samismail2010/Memo-Recorder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samismail2010/Memo-Recorder/issues"
+  },
+  "homepage": "https://github.com/Samismail2010/Memo-Recorder#readme"
 }
